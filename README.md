@@ -31,9 +31,9 @@ Because this application is not to be deployed, a walkthrough video that demonst
 6. [Sequelize](https://www.npmjs.com/package/sequelize)
 
 ### Mock Up
-![Team Generator HTML Webpage Screenshot](./develop/assets/images/13-orm-homework-demo-01.gif)
-![Team Generator HTML Webpage Screenshot](./develop/assets/images/13-orm-homework-demo-02.gif)
-![Team Generator HTML Webpage Screenshot](./develop/assets/images/13-orm-homework-demo-03.gif)
+![Team Generator HTML Webpage Screenshot](./assets/images/13-orm-homework-demo-01.gif)
+![Team Generator HTML Webpage Screenshot](./assets/images/13-orm-homework-demo-02.gif)
+![Team Generator HTML Webpage Screenshot](./assets/images/13-orm-homework-demo-03.gif)
 
 ## Instructions
 1. Clone the main project, then open the cloned file.
@@ -46,7 +46,8 @@ Because this application is not to be deployed, a walkthrough video that demonst
 - `DB_PW=`[MySQL password]
 6. Open: `MySQL` CLI.
 7. Run: `source db/schema.sql` to create the database.
-8. Run: `npm start`
+8. Run: `npm run seeds` to seed the databse.
+9. Run: `npm start`
 
 ### User Story
 * AS A manager at an internet retail company
@@ -102,7 +103,7 @@ Because this application is not to be deployed, a walkthrough video that demonst
 Please send your questions and / or comments to **bslockhart** at bslockhart@uncg.edu, or contact me on [GitHub](https://github.com/bslockhart/Brians-E-Commerce-Back-End).
 
 ### Submission
-* Date Submitted: October 19, 2022
+* Date Submitted: October 26, 2022
 * You are required to submit BOTH of the following for review: 
 1. A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met: 
 2. The URL of the GitHub repository, with a unique name and a README describing the project: https://github.com/bslockhart/Brians-E-Commerce-Back-End
