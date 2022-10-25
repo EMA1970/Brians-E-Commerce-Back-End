@@ -78,7 +78,7 @@ Because this application is not to be deployed, a walkthrough video that demonst
 * The walkthrough video must demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia.
 * The walkthrough video must demonstrate GET routes for a single category, a single product, and a single tag being tested in Insomnia.
 * The walkthrough video must demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia.
-* Link: 
+* Link: https://drive.google.com/file/d/1VWfxq9ttIDSe8ZCBoNG5IqamubsN-bw_/view
 
 ### Technical Acceptance Criteria
 * Satisfies all of the preceding acceptance criteria plus the following:
@@ -105,5 +105,5 @@ Please send your questions and / or comments to **bslockhart** at bslockhart@unc
 ### Submission
 * Date Submitted: October 26, 2022
 * You are required to submit BOTH of the following for review: 
-1. A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met: 
+1. A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met: https://drive.google.com/file/d/1VWfxq9ttIDSe8ZCBoNG5IqamubsN-bw_/view
 2. The URL of the GitHub repository, with a unique name and a README describing the project: https://github.com/bslockhart/Brians-E-Commerce-Back-End
