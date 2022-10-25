@@ -78,6 +78,7 @@ Because this application is not to be deployed, a walkthrough video that demonst
 * The walkthrough video must demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia.
 * The walkthrough video must demonstrate GET routes for a single category, a single product, and a single tag being tested in Insomnia.
 * The walkthrough video must demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia.
+* In order to view highest quality video, please download and view video from following link.
 * Link: https://drive.google.com/file/d/1VWfxq9ttIDSe8ZCBoNG5IqamubsN-bw_/view
 
 ### Technical Acceptance Criteria
